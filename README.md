@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/99079470/233349761-61c2c41b-ee35-42e5-a32a-279a9c0d3972.png)
 
-Junior android developer with 1 year experience 01101001 01101110 the fitness industry. Has managed to work with small scripts to update all apps in play market. Very interested to try myself in cross-platform development with Flutter framerate.
+Junior android developer with 1 year experience 01101001 01101110 the fitness industry. Has managed to work with small scripts to update all apps in play market. Very interested to try myself in cross-platform development with Flutter framework.
 
 [![linkedin](https://img.shields.io/badge/zzzdanovich-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zzzdanovich/)
 [![gmail](https://img.shields.io/badge/alekseyzdanovich0@gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseyzdanovich0@gmail.com)
